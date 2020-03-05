@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4545091b-a7c1-4fc5-8dd7-155ee40f2087" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="Exercise" module="[JAVA Workspaces]" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nextLine</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Desktop\同步\Computer Science\JAVA\Workspaces\[JAVA Workspaces]</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1WEAlb3fIh3BZJJxN5vzejosxFa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\同步\Computer Science\JAVA\Workspaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Judgement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Test.Judgement" />
+      <module name="[Java Basic Learning]" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBean.Student_Test" />
+      <module name="[Java Basic Learning]" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Object.Test.Test" />
+      <module name="[Java Basic Learning]" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Object.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="__exercise__.Test" />
+      <module name="[Java Basic Learning]" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="__exercise__.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="___Exercise___" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="___Exercise___" />
+      <module name="[Java Basic Learning]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_HelloWorld" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12823" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Judgement" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Student_Test" />
+      <item itemvalue="Application.___Exercise___" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.___Exercise___" />
+        <item itemvalue="Application.Judgement" />
+        <item itemvalue="Application.Student_Test" />
+        <item itemvalue="Application.Test (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4545091b-a7c1-4fc5-8dd7-155ee40f2087" name="默认的" comment="" />
+      <created>1564661203676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564661203676</updated>
+      <workItem from="1564661207582" duration="1751000" />
+      <workItem from="1564706847591" duration="783000" />
+      <workItem from="1564709031830" duration="4133000" />
+      <workItem from="1564748954820" duration="848000" />
+      <workItem from="1564791429627" duration="598000" />
+      <workItem from="1564918700413" duration="3108000" />
+      <workItem from="1565009049985" duration="1877000" />
+      <workItem from="1565578739646" duration="1484000" />
+      <workItem from="1565694500094" duration="4019000" />
+      <workItem from="1565831487500" duration="1327000" />
+      <workItem from="1566809106109" duration="69000" />
+      <workItem from="1566809207105" duration="4903000" />
+      <workItem from="1566862057337" duration="6960000" />
+      <workItem from="1566906899864" duration="672000" />
+      <workItem from="1566907610519" duration="3713000" />
+      <workItem from="1566913111471" duration="281000" />
+      <workItem from="1566949482756" duration="680000" />
+      <workItem from="1566950202033" duration="9954000" />
+      <workItem from="1567036119455" duration="9651000" />
+      <workItem from="1567154283207" duration="4399000" />
+      <workItem from="1567208769888" duration="3195000" />
+      <workItem from="1567402029116" duration="4262000" />
+      <workItem from="1567512443955" duration="5026000" />
+      <workItem from="1567679881846" duration="5052000" />
+      <workItem from="1567765986291" duration="3234000" />
+      <workItem from="1567816568654" duration="1887000" />
+      <workItem from="1567818560801" duration="5526000" />
+      <workItem from="1567926731723" duration="1208000" />
+      <workItem from="1567927975774" duration="4988000" />
+      <workItem from="1568032931014" duration="711000" />
+      <workItem from="1568074696235" duration="4029000" />
+      <workItem from="1568206499906" duration="3719000" />
+      <workItem from="1568285269216" duration="4639000" />
+      <workItem from="1568700478944" duration="2276000" />
+      <workItem from="1568718276034" duration="2641000" />
+      <workItem from="1568722027118" duration="1381000" />
+      <workItem from="1569116448759" duration="604000" />
+      <workItem from="1569217703810" duration="3877000" />
+      <workItem from="1569319601323" duration="3596000" />
+      <workItem from="1569407426995" duration="2625000" />
+      <workItem from="1570626894459" duration="57000" />
+      <workItem from="1573712539658" duration="1532000" />
+      <workItem from="1573863890149" duration="2160000" />
+      <workItem from="1573901137629" duration="2290000" />
+      <workItem from="1573955798601" duration="3224000" />
+      <workItem from="1573994382707" duration="440000" />
+      <workItem from="1573997139364" duration="2943000" />
+      <workItem from="1574046400044" duration="1874000" />
+      <workItem from="1574063555380" duration="3718000" />
+      <workItem from="1574083787298" duration="1060000" />
+      <workItem from="1574157533476" duration="2544000" />
+      <workItem from="1574162871335" duration="2453000" />
+      <workItem from="1574244328018" duration="6652000" />
+      <workItem from="1574298835443" duration="1830000" />
+      <workItem from="1574343428672" duration="1959000" />
+      <workItem from="1574577167771" duration="29000" />
+      <workItem from="1574748601926" duration="2000" />
+      <workItem from="1576408760002" duration="2573000" />
+      <workItem from="1576495282283" duration="4841000" />
+      <workItem from="1576566158871" duration="3114000" />
+      <workItem from="1576632395982" duration="4541000" />
+      <workItem from="1578704535018" duration="805000" />
+      <workItem from="1578708110552" duration="5657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="179" key="FileChooserDialogImpl" timestamp="1578732552792">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="179" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1578732552792" />
+    <state width="1420" height="76" key="GridCell.Tab.0.bottom" timestamp="1578744432493">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="76" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1578744432493" />
+    <state width="1420" height="76" key="GridCell.Tab.0.center" timestamp="1578744432492">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="76" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1578744432492" />
+    <state width="1420" height="76" key="GridCell.Tab.0.left" timestamp="1578744432492">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="76" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1578744432492" />
+    <state width="1420" height="76" key="GridCell.Tab.0.right" timestamp="1578744432492">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="76" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1578744432492" />
+    <state x="414" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1578708111395">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="414" y="262" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1578708111395" />
+    <state x="101" y="48" key="new project wizard" timestamp="1578732555439">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="101" y="48" key="new project wizard/0.0.1463.874@0.0.1463.874" timestamp="1578732555439" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$Exercise.ic" NAME="Exercise Coverage Results" MODIFIED="1565694835061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
