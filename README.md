@@ -1,2 +1,2 @@
 # Java-SE
-Useful files when learning Java basic knowledge
+My Codes of learning Java-SE knowledge
